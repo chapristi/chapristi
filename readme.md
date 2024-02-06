@@ -5,7 +5,6 @@
   - 🌱 Currently working on learning Java and developing my own search engine.
   - 🔓 I am passionate about cybersecurity, and I actively train on platforms like Root-Me and TryHackMe.
   - 🔎 I'm open to work and actively seeking an internship in Dublin or the surrounding areas.
-  - 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ttvchapristi)
 
