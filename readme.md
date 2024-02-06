@@ -1,4 +1,11 @@
-
+## 🙋‍♂️ Hi my name is Louis👋:
+  - 🌍 I'm based in Limoges
+  - ✉️ You can contact me on discord 
+  - 🚀 I'm currently student of Bachelor in Computer Science
+  - 🌱 I'm currently work to learn Java and on my own search engine
+  - 🔓 I love Cyber Security and i train on root-me and try-hack-me
+  - 🔎 I'm open to work
+    
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ttvchapristi) 
 
