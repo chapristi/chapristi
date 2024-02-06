@@ -1,5 +1,5 @@
 ## 🙋‍♂️ Hi my name is Louis👋:
-  - 🌍 I'm based in Limoges
+  - 🌍 I'm based in Limoges, France
   - ✉️ You can contact me on discord 662697004811550722
   - 🚀 I'm currently student of Bachelor in Computer Science
   - 🌱 Currently working on learning Java and developing my own search engine.
