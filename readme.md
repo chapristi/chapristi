@@ -18,6 +18,9 @@
   - 🌐 Adaptability and willingness to embrace new challenges.
   - 🎤 Event planning and organizational skills for cybersecurity and ecological initiatives.
     
+## 📞 Contact
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="20"> LinkedIn : [Louis](https://www.linkedin.com/in/louis-bec-6b0b68215/)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chapristi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
