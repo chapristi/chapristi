@@ -10,7 +10,7 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Louis81203596?style=social)](https://x.com/Louis81203596)
 
 ## 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=php,symfony,js,react,html,css,yarn,nodejs,git,md,figma,github,bash,c,linux,py,vscode,npm,sql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=php,symfony,js,react,py,html,css,yarn,nodejs,git,md,figma,github,bash,c,linux,py,vscode,npm,java,mysql,postgres&theme=dark)
 
 ## 💼 Soft Skills:
   - 💬 English(B1-B2), German(A2).
