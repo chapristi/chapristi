@@ -6,17 +6,14 @@
   - 🔓 I'm passionate about cybersecurity and actively train on platforms like Root-Me and TryHackMe.
   - 🔎 I have a job in Greece for this summer, and I'm looking for an internship in Asia for 2025.
 
-## 🌐 Socials:
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Louis81203596?style=social)](https://x.com/Louis81203596)
-
 ## 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=php,symfony,js,react,py,html,css,yarn,nodejs,git,md,figma,github,bash,c,linux,py,vscode,npm,java,mysql,postgres&theme=dark)
 
-## 🛡️ Cybersécurité  
+## 🛡️ Cybersécurité
+Je réalise des challenges et des CTF régulièrement pour me former à la cybersécurité :
 - <img src="https://root-me.org/favicon.ico" width="20"> Root-Me : [chapriisti](https://www.root-me.org/chapriisti)
 - <img src="https://tryhackme.com/img/favicon.png" width="20"> TryHackMe : [chapristi](https://tryhackme.com/p/chapristi)
 
-Cela crée une section dédiée à la cybersécurité, où votre profil Root-Me est mis en avant. Est-ce 
 ## 💼 Soft Skills:
   - 💬 English(B1-B2), German(A2).
   - 🌱 Commitment to environmental sustainability and community engagement.
@@ -25,7 +22,7 @@ Cela crée une section dédiée à la cybersécurité, où votre profil Root-Me 
     
 ## 📞 Contact
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="20"> LinkedIn : [Louis](https://www.linkedin.com/in/louis-bec-6b0b68215/)  
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="20"> Twitter : [@chapristi5](https://x.com/chapristi5)
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="20"> Twitter : [@Louis81203596](https://x.com/Louis81203596)
 
 
 
