@@ -12,6 +12,11 @@
 ## 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=php,symfony,js,react,py,html,css,yarn,nodejs,git,md,figma,github,bash,c,linux,py,vscode,npm,java,mysql,postgres&theme=dark)
 
+## 🛡️ Cybersécurité  
+- <img src="https://root-me.org/favicon.ico" width="20"> Root-Me : [chapriisti](https://www.root-me.org/chapriisti)
+- <img src="https://tryhackme.com/img/favicon.png" width="20"> TryHackMe : [chapristi](https://tryhackme.com/p/chapristi)
+
+Cela crée une section dédiée à la cybersécurité, où votre profil Root-Me est mis en avant. Est-ce 
 ## 💼 Soft Skills:
   - 💬 English(B1-B2), German(A2).
   - 🌱 Commitment to environmental sustainability and community engagement.
@@ -19,7 +24,10 @@
   - 🎤 Event planning and organizational skills for cybersecurity and ecological initiatives.
     
 ## 📞 Contact
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="20"> LinkedIn : [Louis](https://www.linkedin.com/in/louis-bec-6b0b68215/)
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="20"> LinkedIn : [Louis](https://www.linkedin.com/in/louis-bec-6b0b68215/)  
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="20"> Twitter : [@chapristi5](https://x.com/chapristi5)
+
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chapristi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
