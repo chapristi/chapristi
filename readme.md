@@ -11,7 +11,8 @@
 
 
 ## 🛡️ Cybersecurity
-I regularly complete challenges and CTFs to train myself in cybersecurity.- <img src="https://root-me.org/favicon.ico" width="20"> Root-Me : [chapriisti](https://www.root-me.org/chapriisti)
+I regularly complete challenges and CTFs to train myself in cybersecurity.
+- <img src="https://root-me.org/favicon.ico" width="20"> Root-Me : [chapriisti](https://www.root-me.org/chapriisti)
 - <img src="https://tryhackme.com/img/favicon.png" width="20"> TryHackMe : [chapristi](https://tryhackme.com/p/chapristi)
 
 ## 💼 Soft Skills:
