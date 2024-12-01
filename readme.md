@@ -10,9 +10,8 @@
 ![My Skills](https://skillicons.dev/icons?i=php,symfony,js,react,py,html,css,yarn,nodejs,git,md,figma,github,bash,c,linux,py,vscode,npm,java,mysql,postgres,figma,rust,redhat&theme=dark)
 
 
-## 🛡️ Cybersécurité
-Je réalise des challenges et des CTF régulièrement pour me former à la cybersécurité :
-- <img src="https://root-me.org/favicon.ico" width="20"> Root-Me : [chapriisti](https://www.root-me.org/chapriisti)
+## 🛡️ Cybersecurity
+I regularly complete challenges and CTFs to train myself in cybersecurity.- <img src="https://root-me.org/favicon.ico" width="20"> Root-Me : [chapriisti](https://www.root-me.org/chapriisti)
 - <img src="https://tryhackme.com/img/favicon.png" width="20"> TryHackMe : [chapristi](https://tryhackme.com/p/chapristi)
 
 ## 💼 Soft Skills:
