@@ -22,7 +22,6 @@ I regularly complete challenges and CTFs to train myself in cybersecurity.
   - 🎤 Event planning and organizational skills for cybersecurity and ecological initiatives.
     
 ## 📞 Contact
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="20"> LinkedIn : [Louis](https://www.linkedin.com/in/louis-bec-6b0b68215/)  
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="20"> Twitter : [@Louis81203596](https://x.com/Louis81203596)
 
 
